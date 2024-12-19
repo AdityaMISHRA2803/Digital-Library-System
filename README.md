@@ -1,39 +1,18 @@
-## Library Management System 📚
+## Digital Library Management System 📚
+A web application designed for efficient management of library activities, including member management, book transactions, and more, built using the MERN stack.
 
-A web app for managing all the activities of a library like managing members and book transactions, built on MERN Stack
-![1](https://user-images.githubusercontent.com/73348574/205624307-6a1b18fa-5ef7-4de9-b141-9225eca62c6c.png)
 
-### Video Demo
+### If you find this project helpful, please consider starring it! ❤️🌟
 
-[Demo Link](https://drive.google.com/file/d/1gddUdOE41WaEyY4OWoJtDa0l6VJZTg94/view?usp=sharing)
 
-Show some ❤️ and 🌟 the repo to support the project
-
-## Index ✏️
-
-- [Library Management System 📚](#library-management-system-)
-  - [Video Demo](#video-demo)
-- [Index ✏️](#index-️)
-- [Features Of LCMS 🚀](#features-of-lcms-)
-- [Setup 🔥](#setup-)
-  - [Frontend Setup 🍧](#frontend-setup-)
-  - [Backend Setup 🍿](#backend-setup-)
-- [Technologies 🛠](#technologies-)
-- [Screenshots](#screenshots)
-- [References 💻](#references-)
-- [Author 📝](#author-)
-- [Connect Me On 🌍](#connect-me-on-)
-- [License 🏆](#license-)
-
-## Features Of LCMS 🚀
-
-- Admin Login and Student Login
-- Admin and Student Dashboard
-- Adding Library Members
-- Adding Books with Available Copies
-- Issue and Return Transaction tracking of a Book by the Member
-- Reserving a book for specific dates
-- Showing the Achievements, Event Gallery
+### Key Features 🚀
+-Admin & Student Login – Separate user roles for administrators and students.
+-Admin and Student Dashboards – Customizable views for both roles.
+-Library Member Management – Add and manage library members.
+-Book Management – Add books with available copies.
+-Book Transactions – Track book issue and return history for each member.
+-Book Reservation – Allow students to reserve books for specific dates.
+-Event & Achievement Gallery – Showcase events and library achievements.
 
 ## Setup 🔥
 
@@ -90,12 +69,8 @@ Show some ❤️ and 🌟 the repo to support the project
 
 ## Author 📝
 
-- [@iampranavdhar](https://www.github.com/iampranavdhar)
+- [@AdityaMISHRA2803](https://github.com/AdityaMISHRA2803/Digital-Library-System.git)
 
-## Connect Me On 🌍
-
-[![twitter badge](https://img.shields.io/badge/twitter-Pranavdhar-0077b5?style=social&logo=twitter)](https://twitter.com/iampranavdhar)<br/>
-[![linkedin badge](https://img.shields.io/badge/linkedin-Pranavdhar-0077b5?style=social&logo=linkedin)](https://in.linkedin.com/in/sai-pranavdhar-reddy-nalamalapu-038104206)
 
 ## License 🏆
 
